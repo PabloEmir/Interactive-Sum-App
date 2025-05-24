@@ -21,6 +21,5 @@ This is a simple PySide6 application that allows you to interactively sum a numb
    ```bash
    python Interactive Sum App.py
    ```
-   OR DOWNLOAD THE RELEASE
 
 The application window should appear.
